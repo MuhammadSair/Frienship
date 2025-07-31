@@ -85,9 +85,9 @@ export default function LoveLetter() {
             Dear Laiba,
           </Typography>
           <Typography variant="body2" sx={{ mt: 1 }}>
-            You brighten my days with your stories and your energy. You're not
-            just my only female friend — you're my light, my laugh, my calm in
-            chaos. 💖
+            You brighten my days with your stories and your energy. You&apos;re
+            not just my only female friend — you&apos;re my light, my laugh, my
+            calm in chaos. 💖
           </Typography>
           <Typography variant="body1" sx={{ mt: 2, textAlign: "right" }}>
             — Yours, always.

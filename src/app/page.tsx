@@ -106,7 +106,8 @@ export default function LaibaPage() {
           transition={{ delay: 1, duration: 1 }}
           style={{ marginTop: 10, color: "#6a1b9a", fontSize: "1.2rem" }}
         >
-          Here's to the CEO of Vibes™, and the queen of chaotic good energy 💫
+          Here&apos;s to the CEO of Vibes™, and the queen of chaotic good energy
+          💫
         </motion.p>
       </Container>
 
@@ -147,7 +148,7 @@ export default function LaibaPage() {
         </Typography>
         <Grid container spacing={2}>
           {qualities.map((quality, index) => (
-            <Grid item xs={12} key={index}>
+            <Grid size={{ xs: 12 }} key={index}>
               <Paper
                 elevation={3}
                 component={motion.div}
@@ -209,7 +210,7 @@ export default function LaibaPage() {
             }}
           >
             <Typography variant="h6" sx={{ color: "#6a1b9a" }}>
-              You're not just my only female friend — you're my whole comedy
+              You&apos;re not just my only female friend — you&apos;re my whole comedy
               club 🎤💘
             </Typography>
           </motion.div>
