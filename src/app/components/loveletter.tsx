@@ -84,7 +84,7 @@ export default function LoveLetter() {
           >
             Dear Laiba,
           </Typography>
-          <Typography variant="body2" sx={{ mt: 1 }}>
+          <Typography variant="body2" sx={{ mt: 1, color: "#6a1b9a" }}>
             You brighten my days with your stories and your energy. You&apos;re
             not just my only female friend — you&apos;re my light, my laugh, my
             calm in chaos. 💖
